@@ -1,6 +1,7 @@
 /** @define Button; use strict */
 
 .Button {
+	border: 1px solid black;
 }
 
 .Button.is-black {
