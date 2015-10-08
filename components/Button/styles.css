@@ -1,7 +1,10 @@
 /** @define Button; use strict */
 
 .Button {
+	padding: 8px 16px;
+	background-color: #333;
 	border: 1px solid black;
+	color: white;
 }
 
 .Button.is-black {
